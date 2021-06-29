@@ -1,0 +1,7 @@
+cdflib==0.3.20
+pickle-mixin==1.0.2
+numpy==1.21.0 
+scipy==1.7.0 
+Calendar==1.11.4
+matplotlib==3.4.2 
+DateTime==4.3
