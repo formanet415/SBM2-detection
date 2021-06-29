@@ -1,4 +1,4 @@
 
 start.txt
 *.pyc
-*.pickle
+backup_SBM2_data*
