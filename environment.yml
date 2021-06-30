@@ -1,0 +1,12 @@
+name: datapy
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - cdflib
+  - pathlib
+  - matplotlib
+  - scipy
+  - notebook
+  - jupyter
+prefix: C:\Users\formanet\miniconda3\envs\datapy
