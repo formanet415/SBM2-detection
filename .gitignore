@@ -2,3 +2,5 @@
 start.txt
 *.pyc
 backup_SBM2_data*
+SBM2_data_V7.2.pickle
+SBM2_data_V7.1.pickle
